@@ -1,6 +1,6 @@
 # Kamil Lelonek
 
-**DevOps Engineer | Cloud Infrastructure | Platform Team Leader**
+**DevOps | Cloud | Infrastructure | Platform Engineer**
 
 Building scalable, cloud-native platforms and leading engineering teams since 2010.
 I work where infrastructure meets software — defining architecture as code, automating delivery pipelines, and embedding observability and security from day one.
@@ -25,4 +25,3 @@ I work where infrastructure meets software — defining architecture as code, au
 - Portfolio: [lelonek.me](https://lelonek.me/)
 - Blog: [blog.lelonek.me](https://blog.lelonek.me/)
 - LinkedIn: [linkedin.com/in/KamilLelonek](https://linkedin.com/in/KamilLelonek/)
-
