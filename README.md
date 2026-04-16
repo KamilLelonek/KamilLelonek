@@ -3,7 +3,7 @@
 **DevOps | Cloud | Infrastructure | Platform Engineer**
 
 Building scalable, cloud-native platforms and leading engineering teams since 2010.
-I work where infrastructure meets software — defining architecture as code, automating delivery pipelines, and embedding observability and security from day one.
+I work where infrastructure meets software – defining architecture as code, automating delivery pipelines, and embedding observability and security from day one.
 
 ---
 
